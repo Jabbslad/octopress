@@ -296,7 +296,7 @@ article.post {
 }
 
 section.comments {
-  width: auto;
+  max-width: 500px;
   position: relative;
   padding-left: 50px;
   overflow-x: hidden;
