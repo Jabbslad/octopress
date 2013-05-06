@@ -6,8 +6,6 @@ comments: true
 categories: java interview algorithm
 ---
 
-# Introduction
-
 A question on how to reverse a singly linked list popped up in a recent interview question. I stumbled through the question at the time but wanted to revisit my solution and refine it somewhat.
 
 <!-- more -->
